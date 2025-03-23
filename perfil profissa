@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perfil Profissional</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="responsividade.css">
+</head>
+<body>
+    <header>
+        <h1>Walter Hartwell White</h1>
+        <p1>Químico e Empreendedor no Setor Farmacêutico Alternativo</p1>
+    </header>
+    
+    <div class="container">
+        <aside>
+            <h2>Informações Pessoais</h2>
+            <p><strong>Localização:</strong> Novo mexico, EUA</p>
+            <p><strong>Educação e Formação:</strong> Doutorado em Química – Universidade da Califórnia, em Los Angeles</p>
+            <p><strong>Contato Profissional:</strong> naoeoheisenberg@gmail.com</p>
+            
+        </aside>
+        
+        <main>
+            <section>
+                <h2>Biografia</h2>
+                <p>Sou um químico altamente capacitado, com experiência que abrange desde a
+                 pesquisa acadêmica até a aplicação prática em projetos inovadores e altamente
+                 lucrativos. Minha trajetória profissional inclui a cofundação de uma empresa
+                 tecnológica, anos dedicados ao ensino da química e, posteriormente, a gestão
+                 e liderança de um empreendimento autossustentável e de alcance internacional.</p>
+            </section>
+            
+            <section>
+                <h2>Experiências Profissionais</h2>
+                <h3>Empreendedor no Setor Farmacêutico Alternativo</h3>
+                <ul>
+                    <li>Desenvolvimento de um dos produtos mais puros e eficientes do mercado</li> 
+                    <li>Expansão estratégica do negócio em nível regional e internacional</li>
+                    <li>Estabelecimento de parcerias e negociações complexas</li>                     
+                </ul>
+                <h3>Professor de Química – Ensino Médio</h3>
+                <ul>
+                    <li>Ministrou aulas detalhadas sobre química para estudantes do ensino médio</li>
+                    <li>Aplicou métodos inovadores para tornar a ciência mais acessível aos alunos</li>
+                </ul>
+            </section>
+            
+            <section>
+                <h2>Projetos</h2>
+                <p>Pesquisa e Desenvolvimento de Produtos Químicos Avançados,
+                   Ensino de Química e Desenvolvimento de Currículo Educacional,
+                   Desenvolvimento e Gestão de Laboratório Químico de Alta Eficiência,
+                   Consultoria em Otimização de Processos Industriais.
+                </p>
+            </section>
+        </main>
+        
+        <aside>
+            <h2>Habilidades e Interesses</h2>
+            <ul>
+                <li>Extenso conhecimento em química aplicada</li>
+                <li>Produção e síntese de compostos químicos avançados</li>
+                <li>Estratégias de negócios e liderança</li>
+                <li>Inovação tecnológica e novas tendências em TI</li>
+                <li>Computação em nuvem e suas aplicações</li>
+            </ul>
+        </aside>
+    </div>
+    
+    <footer>
+        <div class="social-links">
+            <a href="#">LinkedIn</a>
+            <a href="#">GitHub</a>
+            <a href="#">E-mail</a>
+        </div>
+    </footer>
+</body>
+</html>
